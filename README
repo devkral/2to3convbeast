@@ -1,0 +1,7 @@
+Converting python2 to python3 code is difficult even with the converter.
+This script will ease it drastically.
+Features:
++single/condensed patch files
++recursive
++create even sha512sum
++patch -N compatible patch files
